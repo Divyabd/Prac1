@@ -7,6 +7,8 @@ public class D {
 		System.out.println("hello ppls");
 		System.out.println("Divya");
 		System.out.println("hello ppls");
+		System.out.println("kousalya");
+		System.out.println("Divya1111");
 	}
 
 }
